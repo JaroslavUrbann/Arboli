@@ -1,0 +1,56 @@
+﻿a.jumbo{
+    text-decoration: none;
+}
+a.zpet{
+    margin-top: 20px;
+}
+header.jumbotron{
+    margin-top: 30px;
+    text-align: center;
+    background-color: darkseagreen; 
+    color:black;
+}
+#profil{
+    padding-top: 30px;
+}
+div.menu{
+    text-align: center;
+}
+div.pnel{
+    margin-top: 10px;
+}
+div.galerie{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+@media (min-width: 768px){
+    img.galImg:hover{
+        position: relative;
+        -webkit-transform:scale(1.55);
+        z-index:100;
+}
+}
+img{
+    width: 100%;
+}
+footer{
+    margin-top: 30px;
+    min-height: 40px;
+    text-align: center;
+}
+p.deset{
+    padding-top: 10px;
+}
+p.nul{
+    margin-bottom: 0;
+}
+h3.deset{
+    padding-top: 10px;
+}
+p.popis{
+    margin-bottom:0px;
+    margin-left: 20px;
+}
+h1.galNadpis{
+    padding-top: 30px;
+}
